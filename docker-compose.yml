@@ -1,0 +1,8 @@
+version: "2"
+services:
+  docker-karo218.ir:
+    image: docker-karo218.ir:latest
+    container_name: docker-karo218.ir
+    restart: unless-stopped
+    ports:
+      - 7788:80
