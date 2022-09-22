@@ -1,2 +1,6 @@
 /.git
 /.gitignore
+/docker_build.bat
+/docker_compose.bat
+/docker_push.bat
+/docker-compose.yml
